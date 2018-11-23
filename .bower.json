@@ -1,0 +1,45 @@
+{
+  "name": "assistantx-assets",
+  "version": "1.0.0",
+  "description": "Test Assets",
+  "homepage": "https://assistantx.com",
+  "license": "MIT",
+  "author": {
+    "name": "Arturo Ortiz",
+    "email": "arturoortiz2002@hotmail.com",
+    "url": "https://assitantx.com"
+  },
+  "keywords": [
+    "assistantx",
+    "assets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assistantmx/assistantx-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assistantmx/assistantx-assets/issues"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "js",
+    "_js",
+    "css",
+    "*.mp4",
+    "*.ogv",
+    "*.webm",
+    "Gemfile",
+    "lib"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.3",
+    "commit": "c9adb729e2966e235f38218ad167033bc5e3cbc3"
+  },
+  "_source": "https://github.com/assistantmx/assistantx-assets.git",
+  "_target": "^1.1.3",
+  "_originalSource": "assistantx-assets",
+  "_direct": true
+}
