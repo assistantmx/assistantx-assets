@@ -23,9 +23,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "js",
-    "_js",
-    "css",
     "*.mp4",
     "*.ogv",
     "*.webm",
