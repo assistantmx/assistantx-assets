@@ -25,7 +25,7 @@
     border:0;
     border-radius:0;
     outline:0;
-    font-family:inherit;
+    /*font-family:inherit;*/
     -webkit-appearance:none;
     -moz-appearance:none;
     appearance:none
@@ -1684,7 +1684,7 @@
     min-width:200px;
     overflow:hidden;
     text-align:center;
-    font-family:arial,verdana,sans-serif
+    /*font-family:arial,verdana,sans-serif*/
 }
 .mbsc-fr,.mbsc-fr-persp,.mbsc-fr-overlay{
     position:fixed;
@@ -2098,7 +2098,7 @@
     border:0;
     border-radius:0;
     outline:0;
-    font-family:inherit;
+    /*font-family:inherit;*/
     -webkit-appearance:none;
     -moz-appearance:none;
     appearance:none;
@@ -2504,7 +2504,7 @@
     color:inherit;
     font-size:1.5em;
     font-weight:normal;
-    font-family:inherit
+    /*font-family:inherit*/
 }
 .mbsc-empty p{
     margin:1em 0;
@@ -5347,7 +5347,7 @@
     box-sizing:border-box
 }
 .mbsc-lv-mobiscroll{
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     padding-top:1px
 }
 .mbsc-lv-mobiscroll .mbsc-lv{
@@ -6141,7 +6141,7 @@
 .mbsc-page{
     min-height:100%;
     font-size:16px;
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     -webkit-font-smoothing:antialiased;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
     -webkit-tap-highlight-color:transparent;
@@ -6169,7 +6169,7 @@
     padding:0;
     color:inherit;
     font-weight:normal;
-    font-family:inherit
+    /*font-family:inherit*/
 }
 .mbsc-page p{
     margin:1em 0;
@@ -6897,7 +6897,7 @@
 }
 .mbsc-form{
     font-size:16px;
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     -webkit-font-smoothing:antialiased;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
     -webkit-tap-highlight-color:transparent;
@@ -6949,7 +6949,7 @@
     border:0;
     border-radius:0;
     outline:0;
-    font-family:inherit;
+    /*font-family:inherit;*/
     -webkit-appearance:none;
     -moz-appearance:none;
     appearance:none
@@ -8380,7 +8380,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     overflow:hidden;
     position:relative;
     font-size:16px;
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     -webkit-font-smoothing:antialiased;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
     -webkit-text-size-adjust:100%;
@@ -10947,7 +10947,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     background:#f7f7f7;
     color:#000;
     font-size:12px;
-    font-family:-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif
+    /*font-family:-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif*/
 }
 .mbsc-ios .mbsc-fr-has-hdr .mbsc-fr-w{
     min-width:25em
@@ -11640,7 +11640,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     right:.125em
 }
 .mbsc-lv-ios{
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     margin-top:-1px;
     padding-top:1px
 }
@@ -12945,7 +12945,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     line-height:37px
 }
 .mbsc-bootstrap .mbsc-fr-w{
-    font-family:inherit;
+    /*font-family:inherit;*/
     padding:0
 }
 .mbsc-bootstrap .mbsc-fr-overlay{
@@ -14804,7 +14804,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     color:#5b5b5b
 }
 .mbsc-lv-material{
-    font-family:arial,verdana,sans-serif;
+    /*font-family:arial,verdana,sans-serif;*/
     padding-top:1px
 }
 .mbsc-lv-material .mbsc-lv{
@@ -17685,7 +17685,7 @@ input:disabled+span .mbsc-slider-handle-cont{
     padding:1.25em;
     background:#f2f2f2;
     color:#262626;
-    font-family:Segoe UI,arial,verdana,sans-serif;
+    /*font-family:Segoe UI,arial,verdana,sans-serif;*/
     font-weight:normal;
     text-shadow:none
 }
@@ -18627,7 +18627,7 @@ input:disabled+span .mbsc-slider-handle-cont{
 .mbsc-windows.mbsc-ms-c{
     background:#f2f2f2;
     color:#262626;
-    font-family:Segoe UI,arial,verdana,sans-serif
+    /*font-family:Segoe UI,arial,verdana,sans-serif*/
 }
 .mbsc-windows .mbsc-ms-item{
     padding:.4em .3em;
