@@ -30,7 +30,6 @@
 	border: 0;
 	border-radius: 0;
 	outline: 0;
-	font-family: inherit;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none
@@ -2116,7 +2115,6 @@
 	max-width: 100%;
 	overflow: hidden;
 	text-align: center;
-	font-family: arial, verdana, sans-serif
 }
 
 .mbsc-fr,
@@ -2630,7 +2628,6 @@
 	border: 0;
 	border-radius: 0;
 	outline: 0;
-	font-family: inherit;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
@@ -3153,7 +3150,6 @@
 	color: inherit;
 	font-size: 1.5em;
 	font-weight: normal;
-	font-family: inherit
 }
 
 .mbsc-empty p {
@@ -6899,7 +6895,6 @@
 	user-select: none;
 	touch-action: pan-y;
 	font-size: 16px;
-	font-family: arial, verdana, sans-serif;
 	padding-top: 1px
 }
 
@@ -6956,7 +6951,6 @@
 }
 
 .mbsc-mobiscroll.mbsc-lv-cont {
-	font-family: arial, verdana, sans-serif;
 	padding-top: 1px
 }
 
@@ -7971,7 +7965,6 @@
 .mbsc-page {
 	min-height: 100%;
 	font-size: 16px;
-	font-family: arial, verdana, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 	-webkit-tap-highlight-color: transparent;
@@ -8010,7 +8003,6 @@
 	padding: 0;
 	color: inherit;
 	font-weight: normal;
-	font-family: inherit
 }
 
 .mbsc-page p {
@@ -8943,7 +8935,6 @@
 
 .mbsc-form {
 	font-size: 16px;
-	font-family: arial, verdana, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 	-webkit-tap-highlight-color: transparent;
@@ -9019,7 +9010,6 @@
 	border: 0;
 	border-radius: 0;
 	outline: 0;
-	font-family: inherit;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none
@@ -10826,7 +10816,6 @@ input:disabled+span .mbsc-slider-handle-cont {
 	overflow: hidden;
 	position: relative;
 	font-size: 16px;
-	font-family: arial, verdana, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 	-webkit-text-size-adjust: 100%;
@@ -14001,7 +13990,6 @@ mbsc-avatar~.mbsc-card-title {
 	background: #f7f7f7;
 	color: #000;
 	font-size: 12px;
-	font-family: -apple-system, Helvetica Neue, Helvetica, Arial, sans-serif
 }
 
 .mbsc-ios .mbsc-fr-has-hdr .mbsc-fr-w {
@@ -16593,7 +16581,6 @@ mbsc-avatar~.mbsc-card-title {
 }
 
 .mbsc-bootstrap .mbsc-fr-w {
-	font-family: inherit;
 	padding: 0
 }
 
@@ -22868,7 +22855,6 @@ mbsc-avatar~.mbsc-card-title {
 	padding: 1.25em;
 	background: #f2f2f2;
 	color: #262626;
-	font-family: Segoe UI, arial, verdana, sans-serif;
 	font-weight: normal;
 	text-shadow: none
 }
@@ -24113,7 +24099,6 @@ mbsc-avatar~.mbsc-card-title {
 .mbsc-windows.mbsc-ms-c {
 	background: #f2f2f2;
 	color: #262626;
-	font-family: Segoe UI, arial, verdana, sans-serif
 }
 
 .mbsc-windows .mbsc-ms-item {
